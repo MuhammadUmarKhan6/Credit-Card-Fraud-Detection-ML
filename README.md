@@ -27,10 +27,10 @@ This project implements a machine learning system to detect fraudulent credit ca
 ## 📊 Results
 | Metric | Score |
 |--------|-------|
-| **Accuracy** | 97.00% |
-| **Precision** | 0.65 |
-| **Recall** | 0.83 |
-| **F1-Score** | 0.73 |
+| **Accuracy** | 98.05% |
+| **Precision** | 0.073 |
+| **Recall** | 0.878 |
+| **F1-Score** | 0.135 |
 
 ## Files in this Repository
 - `Credit_Card_Fraud_Detection_Project.ipynb` – Complete Jupyter Notebook with code, analysis, and visualizations
@@ -52,16 +52,16 @@ This project implements a machine learning system to detect fraudulent credit ca
 
 ## Visuals
 ### Data Analysis Code
-![Data Analysis Code](Screenshots1/Cell2_Coding.png)
+![Data Analysis Code](Screenshots1/Cell_2_Coding.png)
 
 ### Data Distribution Charts  
-![Data Distribution](Screenshots1/Cell2_Output.png)
+![Data Distribution](Screenshots1/Cell_2_Output.png)
 
 ### Model Evaluation Code
-![Model Evaluation Code](Screenshots1/Cell5_Coding.png)
+![Model Evaluation Code](Screenshots1/Cell_5_Coding.png)
 
 ### Performance Metrics & Feature Importance
-![Model Performance](Screenshots1/Cell5_Output.png)
+![Model Performance](Screenshots1/Cell_5_Output.png)
 
 ## Dependencies
 - **Python 3.x**
