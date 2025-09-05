@@ -35,7 +35,7 @@ This project implements a machine learning system to detect fraudulent credit ca
 ## Files in this Repository
 - `Credit_Card_Fraud_Detection_Project.ipynb` – Complete Jupyter Notebook with code, analysis, and visualizations
 - `README.md` – Project documentation (this file)
-- `Screenshots1/` – Folder containing output screenshots:
+- `Screenshots1` – Folder containing output screenshots:
   - `Cell 2 Coding.png` – Data visualization code
   - `Cell 2 Output.png` – Data distribution charts
   - `Cell 5 Coding.png` – Model evaluation code
