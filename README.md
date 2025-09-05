@@ -36,10 +36,10 @@ This project implements a machine learning system to detect fraudulent credit ca
 - `Credit_Card_Fraud_Detection_Project.ipynb` – Complete Jupyter Notebook with code, analysis, and visualizations
 - `README.md` – Project documentation (this file)
 - `Screenshots1/` – Folder containing output screenshots:
-  - `Cell2_Coding.png` – Data visualization code
-  - `Cell2_Output.png` – Data distribution charts
-  - `Cell5_Coding.png` – Model evaluation code
-  - `Cell5_Output.png` – Performance metrics and feature importance
+  - `Cell 2 Coding.png` – Data visualization code
+  - `Cell 2 Output.png` – Data distribution charts
+  - `Cell 5 Coding.png` – Model evaluation code
+  - `Cell 5 Output.png` – Performance metrics and feature importance
 
 ## How to Run
 1. Open `Credit_Card_Fraud_Detection_Project.ipynb` in **Google Colab** or Jupyter Notebook
