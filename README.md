@@ -52,16 +52,16 @@ This project implements a machine learning system to detect fraudulent credit ca
 
 ## Visuals
 ### Data Analysis Code
-![Data Analysis Code](Screenshots1/Cell_2_Coding.png)
+![Data Analysis Code](Screenshots1/Cell%202%20Coding.png)
 
 ### Data Distribution Charts  
-![Data Distribution](Screenshots1/Cell_2_Output.png)
+![Data Distribution](Screenshots1/Cell%202%20Output.png)
 
 ### Model Evaluation Code
-![Model Evaluation Code](Screenshots1/Cell_5_Coding.png)
+![Model Evaluation Code](Screenshots1/Cell%205%20Coding.png)
 
 ### Performance Metrics & Feature Importance
-![Model Performance](Screenshots1/Cell_5_Output.png)
+![Model Performance](Screenshots1/Cell%205%20Output.png)
 
 ## Dependencies
 - **Python 3.x**
